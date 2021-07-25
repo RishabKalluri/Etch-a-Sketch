@@ -1,14 +1,45 @@
 #grid { display: grid; 
-    width:25%; 
     margin:0 auto;
     margin-top:13%;
-
-}
-
-.cell{
+    margin-left: 37.5%;
     border: 1px solid grey;
+    position:fixed;
+
 }
 
-.hoveredcell{
+
+#bottomstuff{
+    position: fixed;
+
+}
+
+.blackhover{
     background-color: black;
 }
+
+
+
+
+
+
+
+.redhover{
+    background-color: red;
+}
+.orangehover{
+    background-color: orange;
+}
+.yellowhover{
+    background-color: yellow;
+}
+.greenhover{
+    background-color: green;
+}
+.bluehover{
+    background-color: blue;
+}
+.purplehover{
+    background-color: purple;
+}
+
+
